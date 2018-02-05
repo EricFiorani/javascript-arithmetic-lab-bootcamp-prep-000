@@ -31,6 +31,3 @@ function makeInt(n){
 function preserveDecimal(n){
   return parseFloat(n, 10)
 }
-
-divide(5, 1)
-console.log(divide)
