@@ -33,3 +33,4 @@ function preserveDecimal(n){
 }
 
 divide(5, 1)
+console.log(divide)
